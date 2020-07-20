@@ -22,3 +22,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+client_id.json
+src/components/AudioPlay.html
